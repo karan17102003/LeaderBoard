@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+   
+}
+form {
+    display: flex;
+    flex-direction: row;
+    gap: 5rem;
+    margin: 20px;
+    padding: 10px;
+}
+#last-name{
+    padding: 10px;
+    width: 220px;
+}
+#first-name{
+    padding: 10px;
+    width: 220px;
+}
+#country{
+    padding: 10px;
+    width: 220px;
+}
+#player-score{
+    padding: 10px;
+    width: 200px;
+}
+.button{
+    padding: 10px;
+    height: 30px;
+    text-align: center;
+    align-items: center;
+}
+h1{
+    text-align: center;
+}
+button{
+    background-color: rgba(137, 43, 226, 0.366);
+}
